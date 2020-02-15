@@ -90,10 +90,27 @@ width:530px;
 }
 
 @media only screen and (max-width: 1300px) {
+  .nav-right{
+    font-size:1.5em;
+    padding-top: 5px;
+  }
+  nav{
+    padding: 20px 40px 20px 40px;
+  }
+  .header-name{
+    font-size: 2em;
+  }
   .row {
     flex-direction: column-reverse;
   }
+  
+  .gallery{
+    padding: 20px 40px 20px 40px;
+  }
 
+  .event-card {
+    padding: 20px 40px 20px 40px;
+  }
   img{
     width:60%;
   }
