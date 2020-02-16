@@ -3,7 +3,7 @@
         "id-number": 1,
         "id":"early-life",
         "title":"Early Life",
-        "body":"Mary lived 99 years full of life, family, and friends. She was the daughter of Jewish Eastern European immigrants. They owned a grocery corner store in North Philadelphia. Mary was proud to attend Girl’s High School. ",
+        "body":"Mary lived 99 years full of life, family, and friends. She was the daughter of Jewish Eastern European immigrants. They owned a corner grocery store in North Philadelphia. For school, Mary was proud to attend Girl’s High School. ",
         "image":"baby.png",
         "caption":"Mary as a baby"
     },
@@ -11,7 +11,7 @@
         "id-number": 2,
         "id":"marriage",
         "title":"Marriage",
-        "body":"After graduation, Mary Abrams married Harvey Siller who ran SilCo, a concessions and vending management company. He stocked drive in theaters and snack and cigarette vending machines all across Philadelphia.",
+        "body":"After graduation, Mary Abrams married Harvey Siller who ran SilCo, a concessions and vending management company. His company stocked drive-in movie theaters and vending machines all across Philadelphia.",
         "image":"wedding.png",
         "caption":"Mary and Harvey on their wedding day."
     },
@@ -19,7 +19,7 @@
         "id-number": 3,
         "id":"children",
         "title":"Children",
-        "body":"Mary and Harvey had 3 children, Randy, Suzanne and Terry. Terry tragically passed away of Leukemia when she was 17, but Suzanne and Randy went on to have children and even grandchildren.",
+        "body":"Mary and Harvey had three children; Randy, Suzanne and Terry. Terry tragically passed away from Leukemia when she was 17, but Suzanne and Randy went on to have children and even grandchildren.",
         "image":"suzbat.png",
         "caption":"Suzanne at her Bat Mitzvah with Harvey, Mary, Randy and Terry."
     },
@@ -35,7 +35,7 @@
         "id-number": 5,
         "id":"grand-children",
         "title":"Grand Children",
-        "body":"After her granddaughter, Lauren, was born and they became close friends. Together they went shopping, went on cruises and enjoyed each others company. Lauren’s favorite memory with Mary was when they went together to see the David Letterman show in NYC. Mary loved the David Letterman show and at 85, she was so excited, she ran up the steps to get the best seats in the house.",
+        "body":"After her granddaughter, Lauren, was born and they became close friends. Together they went shopping, went on cruises and enjoyed each others company. Lauren’s favorite memory with Mary was when they went together to see the David Letterman show in NYC. Mary loved the David Letterman show and at 85, she was so excited to see the show in person that, she ran up the steps to get the best seats in the house.",
         "image":"women.png",
         "caption":"Brooke, Jessica, Raquel, Lauren, Suzanne and Mary."
     },
@@ -43,7 +43,7 @@
         "id-number": 6,
         "id":"friends",
         "title":"Friends",
-        "body":"Mary was very close to her sisters-in-law Esther and Henny, and her cousin Shava. She also enjoyed traveling and socializing with friends. She’s pictured here with Cathy, Terry, Isabelle and Esther.  ",
+        "body":"Mary was very close to her sisters-in-law Esther and Henny, and her cousin Shava. She also enjoyed traveling and socializing with friends. She’s pictured here with Cathy, Terry, Isabelle and Esther.",
         "image":"friends.png",
         "caption":"Mary, Cathy, Terry, Isabelle and Esther."
     },
@@ -51,7 +51,7 @@
         "id-number": 7,
         "id":"great-grandchildren",
         "title":"Great Grandchildren",
-        "body":"Mary also had 2 great grandchildren, Raquel and Brooke, who she got to watch grow up, get Bat Mizvahed and even graduate from high school. Brooke is currently attending Lehigh University and Raquel is attending Olin College of Engineering (Raquel also made this website)",
+        "body":"Mary also had two great grandchildren, Raquel and Brooke, who she got to watch grow up, get Bat Mitzvahed and even graduate from high school. Brooke is currently attending Lehigh University and Raquel is attending Olin College of Engineering (Raquel also made this website).",
         "image":"maryPaint.png",
         "caption":"Mary with a prop paintbrush at her great-granddaughter’s Bat Mitzvah."
     }
