@@ -101,7 +101,7 @@ width:80%;
 
 @media only screen and (max-width: 1300px) {
   .nav-right{
-    font-size:1.5em;
+    font-size:1.2em;
     padding-top: 5px;
   }
   nav{
@@ -112,7 +112,7 @@ width:80%;
   }
 
   .header-name{
-    font-size: 2em;
+    font-size: 1.5em;
 
   }
   .row {
@@ -127,7 +127,7 @@ width:80%;
     padding: 20px 40px 20px 40px;
   }
   img{
-    width:60%;
+    width:80%;
   }
   #header-image1{
     display: none;
