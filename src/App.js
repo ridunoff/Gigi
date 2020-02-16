@@ -24,7 +24,10 @@ class App extends Component {
         </div>
       </nav>
      <header>
-        <img class="header-image" src="images/header.png" alt="In loving memory of Mary J (Abrams) Siller, Born December 11th, 1919, Passed Febrary 2nd, 2020. Mary smiling is displayed on the left and a painting of hers with blue and orange flowers is displayed on the right."></img>
+       <div class="header-image"></div>
+        <img class="header-image" id="header-image1" src="images/header.png" alt="In loving memory of Mary J (Abrams) Siller, Born December 11th, 1919, Passed Febrary 2nd, 2020. Mary smiling is displayed on the left and a painting of hers with blue and orange flowers is displayed on the right."></img>
+        <img class="header-image" id="header-image2" src="images/mobile/mobileheader.png" alt="In loving memory of Mary J (Abrams) Siller, Born December 11th, 1919, Passed Febrary 2nd, 2020. Mary smiling is displayed on the left and a painting of hers with blue and orange flowers is displayed on the right."></img>
+
      </header>
      <br/>
      <br/>
